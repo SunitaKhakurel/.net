@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace firstapp
+namespace trial2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello this is sunita ");
-            console.Readline();
+            Console.WriteLine("hello again");
             Console.ReadKey();
         }
     }
