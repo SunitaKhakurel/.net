@@ -11,14 +11,20 @@ namespace loop
         static void Main(string[] args)
         {
           
-                person sunita = new person("sunita", 2 , 5, "black");
+            //    person sunita = new person("sunita", 2 , 5, "black");
             
-            sunita.MyDesc();
+            //sunita.MyDesc();
 
 
-            person suman = new person("suman", 2, 6, "black");
+            //person suman = new person("suman", 2, 6, "black");
             
-            suman.MyDesc();
+            //suman.MyDesc();
+
+            driver ram = new driver();
+            lecturer umesh = new lecturer("umesh", 2 , 5 ,"black");
+            ram.Desc();
+            umesh.desc();
+            umesh.MyDesc();
 
             //Console.WriteLine("enter your favourite color");
             //string favcolor = Console.ReadLine();

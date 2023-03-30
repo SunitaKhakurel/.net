@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace loop
 {
-    internal class person
+    public class person
     {
 
         public string name { get; set; }
@@ -34,6 +34,7 @@ namespace loop
             facecolor = FaceColor;
 
         }
+        public person() { }
 
         public void MyDesc()
         {
@@ -45,5 +46,8 @@ namespace loop
 
         }
         ~person() { }
+       
+
     }
+    
 }
