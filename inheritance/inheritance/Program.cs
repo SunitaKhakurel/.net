@@ -20,7 +20,25 @@ namespace inheritance
             lion lion = new lion();
             lion.whatibreathe1();
             lion.whatieat1();
-            Console.ReadKey();   
+            
+            try
+            {
+                //stack overflow exception
+                string[] names = new string[5];
+                names[0] = "sunita";
+                names[5] = "suman";
+                //conversion excepton
+                string mynumber = Console.ReadLine();
+
+                int rollno = Convert.ToInt32(mynumber);
+                Console.WriteLine("my roll no is "+rollno);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Exception occur of type " + ex.Message);
+            }
+
+            Console.ReadKey();
         }
     }
 }
