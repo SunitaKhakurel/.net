@@ -23,8 +23,8 @@ namespace loop
             driver ram = new driver();
             lecturer umesh = new lecturer("umesh", 2 , 5 ,"black");
             ram.Desc();
-            umesh.desc();
-            umesh.MyDesc();
+            umesh.Desc();
+            umesh.Desc();
 
             //Console.WriteLine("enter your favourite color");
             //string favcolor = Console.ReadLine();

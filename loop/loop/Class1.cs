@@ -9,7 +9,7 @@ namespace loop
     public class driver : person
     {
         public string DriverLisensedNo { get; set; }
-        public void Desc()
+        public override void Desc()
         {
             Console.WriteLine("I am a driver");
         }

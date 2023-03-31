@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace loop
 {
-    public class person
+     public class person
     {
 
         public string name { get; set; }
@@ -36,7 +36,7 @@ namespace loop
         }
         public person() { }
 
-        public void MyDesc()
+        public virtual void Desc()
         {
            
             Console.WriteLine("my name is " + name);

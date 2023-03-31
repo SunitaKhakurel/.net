@@ -9,7 +9,7 @@ namespace loop
    public class lecturer: person 
     {
         public string Degree { get; set; }
-        public void desc()
+        public override void Desc()
         {
             Console.WriteLine("i am lecturer");
             
