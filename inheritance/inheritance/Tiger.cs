@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace inheritance
 {
-    internal class Tiger : Animal
+     internal partial class Tiger : Animal
     {
         public override void whatieat()
         {
@@ -14,5 +14,13 @@ namespace inheritance
             Console.WriteLine("tiger eat flesh");
         }
     }
-    
+    internal partial  class Tiger : Animal
+    {
+        public void intro()
+        {
+            Console.WriteLine("This is a Tiger");
+        }
+       
+    }
+
 }
