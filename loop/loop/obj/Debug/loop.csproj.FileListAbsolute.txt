@@ -1,0 +1,8 @@
+C:\sunita.net\loop\loop\bin\Debug\loop.exe.config
+C:\sunita.net\loop\loop\bin\Debug\loop.exe
+C:\sunita.net\loop\loop\bin\Debug\loop.pdb
+C:\sunita.net\loop\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+C:\sunita.net\loop\loop\obj\Debug\loop.csproj.SuggestedBindingRedirects.cache
+C:\sunita.net\loop\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+C:\sunita.net\loop\loop\obj\Debug\loop.exe
+C:\sunita.net\loop\loop\obj\Debug\loop.pdb

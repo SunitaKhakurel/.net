@@ -1,0 +1,8 @@
+C:\sunita.net\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\sunita.net\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\sunita.net\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\sunita.net\inheritance\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\sunita.net\inheritance\inheritance\obj\Debug\inheritance.csproj.SuggestedBindingRedirects.cache
+C:\sunita.net\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\sunita.net\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\sunita.net\inheritance\inheritance\obj\Debug\inheritance.pdb
