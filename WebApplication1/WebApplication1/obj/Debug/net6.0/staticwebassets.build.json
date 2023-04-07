@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XTvzrTzFLb7Fa/oo7qyvID8oq8Mw2fKNX1ZB5vxWBnQ=",
+  "Hash": "wud4rPJJg8rA82MgQlMERHrl8HzqO+k64tZIyRXW5Kk=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -1069,6 +1069,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\sunita.net\\WebApplication1\\WebApplication1\\wwwroot\\myfiles\\sunita.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\sunita.net\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "myfiles/sunita.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\myfiles\\sunita.jpg"
+    },
+    {
+      "Identity": "C:\\sunita.net\\WebApplication1\\WebApplication1\\wwwroot\\myfiles\\sunita.txt",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\sunita.net\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "myfiles/sunita.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\myfiles\\sunita.txt"
     }
   ]
 }

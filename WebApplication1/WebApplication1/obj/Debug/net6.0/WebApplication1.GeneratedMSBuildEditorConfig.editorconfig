@@ -20,8 +20,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhbXkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/sunita.net/WebApplication1/WebApplication1/Views/Home/Download.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb3dubG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/sunita.net/WebApplication1/WebApplication1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/sunita.net/WebApplication1/WebApplication1/Views/Home/JsonResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKc29uUmVzdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/sunita.net/WebApplication1/WebApplication1/Views/Home/Privacy.cshtml]
