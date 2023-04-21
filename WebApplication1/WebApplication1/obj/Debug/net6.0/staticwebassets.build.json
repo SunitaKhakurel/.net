@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wud4rPJJg8rA82MgQlMERHrl8HzqO+k64tZIyRXW5Kk=",
+  "Hash": "B9Iy0PZnxOWRu7HsOt+ow/RBqVjN6arQbvylsvUv/vI=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\sunita.net\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\sunita.net\\WebApplication1\\WebApplication1\\wwwroot\\college.txt",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\sunita.net\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "college.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\college.txt"
     },
     {
       "Identity": "C:\\sunita.net\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",

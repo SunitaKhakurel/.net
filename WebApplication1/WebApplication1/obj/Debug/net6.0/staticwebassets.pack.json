@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
     },
     {
+      "Id": "C:\\sunita.net\\WebApplication1\\WebApplication1\\wwwroot\\college.txt",
+      "PackagePath": "staticwebassets\\college.txt"
+    },
+    {
       "Id": "C:\\sunita.net\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
