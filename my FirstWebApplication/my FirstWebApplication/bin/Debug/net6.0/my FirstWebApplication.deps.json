@@ -34,7 +34,7 @@
     ".NETCoreApp,Version=v6.0": {
       "my FirstWebApplication/1.0.0": {
         "dependencies": {
-          "FSharp.Core": "7.0.200",
+          "FSharp.Core": "7.0.400",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "6.0.14",
           "Microsoft.AspNetCore.Antiforgery": "6.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "6.0.0.0",
@@ -332,11 +332,11 @@
           "my FirstWebApplication.dll": {}
         }
       },
-      "FSharp.Core/7.0.200": {
+      "FSharp.Core/7.0.400": {
         "runtime": {
           "lib/netstandard2.1/FSharp.Core.dll": {
             "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.2.23.6902"
+            "fileVersion": "7.4.23.36405"
           }
         },
         "resources": {
@@ -2337,12 +2337,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "FSharp.Core/7.0.200": {
+    "FSharp.Core/7.0.400": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-NmgUnpNH6Zu9B0SPIhojyo38gnPdkdYFYQfbd6zosEH32kbGY/g/Klk7PfOWe1NAe/O1YOMmK9KhwQ2OWsWEbg==",
-      "path": "fsharp.core/7.0.200",
-      "hashPath": "fsharp.core.7.0.200.nupkg.sha512"
+      "sha512": "sha512-kJQ7TBQqd1d2VoODSgwFSAaApaBN0Fuu8mZt2XExmd3UzUxLjUsMn5Y5XhpsUWdnxOL8amp7VFg7cwhPllR4Qw==",
+      "path": "fsharp.core/7.0.400",
+      "hashPath": "fsharp.core.7.0.400.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Mvc.Razor.Extensions/6.0.14": {
       "type": "package",
